@@ -5,7 +5,7 @@
 }
 
 img {
-    max-width: 35vw;
+    max-width: 20vw;
     min-width: 300px;
 }
 
@@ -18,4 +18,42 @@ img {
     background-color: gray;
     text-align: justify;
 }
+
+h2 {
+
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+
+a {
+
+    text-decoration: none;
+
+}
+
+
+a:visited {
+
+    color: yellow;
+}
+
+
+a:hover {
+
+  color:red;
+  font-size: 30px;
+
+
+}
+
+
+a:active {
+
+    font-size:100px;
+
+}
+
+
 
