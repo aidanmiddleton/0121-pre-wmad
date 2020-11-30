@@ -1,0 +1,21 @@
+.top-header {
+
+    text-align: center;
+    background-color: brown;
+}
+
+img {
+    max-width: 35vw;
+    min-width: 300px;
+}
+
+
+.content-segment {
+    border: 5px solid rebeccapurple;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: gray;
+    text-align: justify;
+}
+
